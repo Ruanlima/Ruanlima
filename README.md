@@ -7,4 +7,4 @@ Meu nome é Ruan e estou aprendendo a programar.
 
 ruangoncalveslima@gmail.com
 
-![](https://tenor.com/pt-PT/view/the-office-michael-scott-steve-carrell-unamused-meh-gif-16391448)
+![](https://tenor.com/pt-PT/view/office-gif-23066448)
