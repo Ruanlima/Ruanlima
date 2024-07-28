@@ -3,8 +3,13 @@
 
 Meu nome é Ruan e estou aprendendo a programar.
 
+- Estou estudando na **Alura**.
+- Utilizo esse espaço para a minha organização.
+
 ### Meu contato 
 
 ruangoncalveslima@gmail.com
 
-![](https://tenor.com/pt-PT/view/office-gif-23066448)
+@ruanzitolima
+
+![](https://media1.tenor.com/m/kWejy2kDcTwAAAAC/office.gif)
